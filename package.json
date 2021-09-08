@@ -1,0 +1,22 @@
+{
+  "name": "stakeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.2",
+    "lodash": "^4.17.21",
+    "mathjs": "^9.4.4",
+    "mssql": "^7.2.1",
+    "web3": "^1.5.2"
+  }
+}

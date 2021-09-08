@@ -1,0 +1,441 @@
+[
+      {
+        "name": "Opendefi by Oropocket",
+        "symbol": "ORO",
+        "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
+        "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
+        "decimals": 18,
+        "price":0.10,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "icon": "https://oropocket.com/unifarm/assets/icons/matic.png",
+        "decimals": 18,
+        "price": 0.04,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Centaur Token",
+        "symbol": "CNTR",
+        "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+        "icon": "https://oropocket.com/unifarm/assets/icons/cntr.png",
+        "decimals": 18,
+        "price": 0.004,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Reef.finance",
+        "symbol": "REEF",
+        "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+        "icon": "https://oropocket.com/unifarm/assets/icons/reef.png",
+        "decimals": 18,
+        "price": 0.016,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Frontier Token",
+        "symbol": "FRONT",
+        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+        "icon": "https://oropocket.com/unifarm/assets/icons/frontier.png",
+        "decimals": 18,
+        "price": 0.68,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Terra Virtua Kolect",
+        "symbol": "TVK",
+        "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+        "icon": "https://oropocket.com/unifarm/assets/icons/tvk.png",
+        "decimals": 18,
+        "price": 0.16,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Router Protocol",
+        "symbol": "ROUTE",
+        "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+        "icon": "https://oropocket.com/unifarm/assets/icons/route.png",
+        "decimals": 18,
+        "price": 2.4,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "ZeroSwap Token",
+        "symbol": "ZEE",
+        "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
+        "icon": "https://oropocket.com/unifarm/assets/icons/zeroswap.png",
+        "decimals": 18,
+        "price": 0.35,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Nord Token",
+        "symbol": "NORD",
+        "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
+        "icon": "https://oropocket.com/unifarm/assets/icons/nord.png",
+        "decimals": 18,
+        "price": 4.62,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "MANTRA DAO",
+        "symbol": "OM",
+        "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+        "icon": "https://oropocket.com/unifarm/assets/icons/mantradado.png",
+        "decimals": 18,
+        "price": 0.23,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "RAZOR",
+        "symbol": "RAZOR",
+        "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+        "icon": "https://oropocket.com/unifarm/assets/icons/razor.png",
+        "decimals": 18,
+        "price": 0.083,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "PLOT",
+        "symbol": "PLOT",
+        "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+        "icon": "https://oropocket.com/unifarm/assets/icons/plotx.png",
+        "decimals": 18,
+        "price": 0.11,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "PAID NETWORK",
+        "symbol": "PAID",
+        "address": "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
+        "icon": "https://oropocket.com/unifarm/assets/icons/paidnetwork.png",
+        "decimals": 18,
+        "price": 3.1,
+        "chainId": 4,
+        "tags": []
+      },
+      {
+        "name": "Royale",
+        "symbol": "ROYA",
+        "address": "0x7eaF9C89037e4814DC0d9952Ac7F888C784548DB",
+        "icon": "https://oropocket.com/unifarm/assets/icons/royal.png",
+        "decimals": 18,
+        "price": 0.35,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "APYSwap",
+        "symbol": "APYS",
+        "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+        "icon": "https://oropocket.com/unifarm/assets/icons/apyswap.png",
+        "decimals": 18,
+        "price": 2,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "Playcent",
+        "symbol": "PCNT",
+        "address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+        "icon": "https://oropocket.com/unifarm/assets/icons/playcent.png",
+        "decimals": 18,
+        "price": 0.9,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "HAPI",
+        "symbol": "HAPI",
+        "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "icon": "https://oropocket.com/unifarm/assets/icons/hapi.png",
+        "decimals": 18,
+        "price": 125,
+        "chainId": 1,
+        "tags": []
+      },
+      {
+        "name": "RioDeFi",
+        "symbol": "RFUEL",
+        "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+        "icon": "https://oropocket.com/unifarm/assets/icons/rio.png",
+        "decimals": 18,
+        "price": 0.1,
+        "chainId": 1
+      },
+      {
+        "name": "Polkacover",
+        "symbol": "CVR",
+        "address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+        "icon": "https://oropocket.com/unifarm/assets/icons/polkacover.png",
+        "decimals": 18,
+        "price": 0.49,
+        "chainId": 1
+      },
+      {
+        "name": "GamyFi",
+        "symbol": "GFX",
+        "address": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5",
+        "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
+        "decimals": 18,
+        "price": 2.67,
+        "chainId": 1
+      },
+      {
+        "name": "Unifarm Token",
+        "symbol": "UFARM",
+        "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+        "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+        "decimals": 18,
+        "price": 0.055,
+        "chainId": 1
+      },
+      {
+        "name": "Kylin Network",
+        "symbol": "KYL",
+        "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+        "icon": "https://oropocket.com/unifarm/assets/icons/Kylin.png",
+        "decimals": 18,
+        "price": 0.78,
+        "chainId": 1
+      },
+      {
+        "name": "DeHive",
+        "symbol": "DHV",
+        "address": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+        "icon": "https://oropocket.com/unifarm/assets/icons/Dehive.png",
+        "decimals": 18,
+        "price": 4.84,
+        "chainId": 1
+      },
+      {
+        "name": "Polkalokr",
+        "symbol": "LKR",
+        "address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+        "icon": "https://oropocket.com/unifarm/assets/icons/polkalokr.png",
+        "decimals": 18,
+        "price": 0.42,
+        "chainId": 1
+      },
+      {
+        "name": "PolkaBridge",
+        "symbol": "PBR",
+        "address": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+        "icon": "https://oropocket.com/unifarm/assets/icons/Polkabridge.png",
+        "decimals": 18,
+        "price": 0.23,
+        "chainId": 1
+      },
+      {
+        "name": "Argo App",
+        "symbol": "ARGO",
+        "address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97",
+        "icon": "https://oropocket.com/unifarm/assets/icons/ArGoApp.png",
+        "decimals": 18,
+        "price": 0.4,
+        "chainId": 1
+      },
+      {
+        "name": "QUAI DAO",
+        "symbol": "QUAI",
+        "address": "0x40821cd074dfecb1524286923bc69315075b5c89",
+        "icon": "https://oropocket.com/unifarm/assets/icons/quai.png",
+        "decimals": 18,
+        "price": 0.28,
+        "chainId": 1
+      },
+      {
+        "name": "Bonfi",
+        "symbol": "BNF",
+        "address": "0x1de5e000c41c8d35b9f1f4985c23988f05831057",
+        "icon": "https://oropocket.com/unifarm/assets/icons/bnf.png",
+        "decimals": 18,
+        "price": 0.0063,
+        "chainId": 1
+      },
+      {
+        "name": "Raze Network",
+        "symbol": "RAZE",
+        "address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+        "icon": "https://oropocket.com/unifarm/assets/icons/raze-network.png",
+        "decimals": 18,
+        "price": 0.32,
+        "chainId": 1
+      },
+      {
+        "name": "Netvrk",
+        "symbol": "NTVRK",
+        "address": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
+        "icon": "https://oropocket.com/unifarm/assets/icons/netvrk.png",
+        "decimals": 18,
+        "price": 0.16,
+        "chainId": 1
+      },
+      {
+        "name": "Polkally",
+        "symbol": "KALLY",
+        "address": "0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07",
+        "icon": "https://oropocket.com/unifarm/assets/icons/pollkaly.png",
+        "decimals": 18,
+        "price": 0.011,
+        "chainId": 1
+      },
+      {
+        "name": "Ispolink",
+        "symbol": "ISP",
+        "address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+        "icon": "https://oropocket.com/unifarm/assets/icons/isoplonic.png",
+        "decimals": 18,
+        "price": 0.0027,
+        "chainId": 1
+      },
+      {
+        "name": "Idavoll Network",
+        "symbol": "IDV",
+        "address": "0x92ec47df1aa167806dfa4916d9cfb99da6953b8f",
+        "icon": "https://oropocket.com/unifarm/assets/icons/ada.png",
+        "decimals": 18,
+        "price": 0.025,
+        "chainId": 1
+      },
+      {
+        "name": "Chromia",
+        "symbol": "CHR",
+        "address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
+        "icon": "https://oropocket.com/unifarm/assets/icons/chromia.png",
+        "decimals": 6,
+        "price": 0.188,
+        "chainId": 1
+      },
+      {
+        "name": "STACK OS",
+        "symbol": "STACK",
+        "address": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+        "icon": "https://oropocket.com/unifarm/assets/icons/stack.png",
+        "decimals": 18,
+        "price": 0.046,
+        "chainId": 1
+      },
+      {
+        "name": "TeraBlock",
+        "symbol": "TBC",
+        "address": "0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91",
+        "icon": "https://oropocket.com/unifarm/assets/icons/terablock.png",
+        "decimals": 18,
+        "price": 0.069,
+        "chainId": 1
+      },
+      {
+        "name": "Gains",
+        "symbol": "GAINS",
+        "address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+        "icon": "https://oropocket.com/unifarm/assets/icons/gains.png",
+        "decimals": 18,
+        "price": 0.125,
+        "chainId": 1
+      },
+      {
+        "name": "Singularity DAO",
+        "symbol": "SDAO",
+        "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+        "icon": "https://oropocket.com/unifarm/assets/icons/singularitydao.png",
+        "decimals": 18,
+        "price": 0.68,
+        "chainId": 1
+      },
+      {
+        "name": "Peanut",
+        "symbol": "NUX",
+        "address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "icon": "https://oropocket.com/unifarm/assets/icons/nux.png",
+        "decimals": 18,
+        "price": 0.55,
+        "chainId": 4
+      },
+      {
+        "name": "PAID NETWORK V2",
+        "symbol": "PAID V2",
+        "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+        "icon": "https://oropocket.com/unifarm/assets/icons/paidnetwork.png",
+        "decimals": 18,
+        "price": 3.1
+      },
+      {
+        "name": "Pink Node",
+        "symbol": "PNODE",
+        "address": "0xaf691508ba57d416f895e32a1616da1024e882d2",
+        "icon": "https://oropocket.com/unifarm/assets/icons/pinknode.png",
+        "decimals": 18,
+        "price": 0.046,
+        "chainId": 1
+      },
+      {
+        "name": "PolkaFoundry",
+        "symbol": "PKF",
+        "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+        "icon": "https://oropocket.com/unifarm/assets/icons/polkafoundry.png",
+        "decimals": 18,
+        "price": 0.178,
+        "chainId": 1
+      },
+      {
+        "name": "UnoRe",
+        "symbol": "UNO",
+        "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "icon": "https://oropocket.com/unifarm/assets/icons/uno.png",
+        "decimals": 18,
+        "price": 0.1,
+        "chainId": 1
+      },
+      {
+        "name": "Bitcashpay",
+        "symbol": "BCP",
+        "address": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+        "icon": "https://oropocket.com/unifarm/assets/icons/bitcash.png",
+        "decimals": 8,
+        "price": 0.005,
+        "chainId": 1
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
+        "decimals": 18,
+        "price": 3223.59,
+        "chainId": 1
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "icon": "https://oropocket.com/unifarm/assets/icons/usdc.png",
+        "decimals": 6,
+        "price": 1,
+        "chainId": 1
+      },
+      {
+        "name": "Definity",
+        "symbol": "DEFX",
+        "address": "0x5F474906637bdCDA05f29C74653F6962bb0f8eDa",
+        "icon": "https://oropocket.com/unifarm/assets/icons/defx.png",
+        "decimals": 18,
+        "price": 0.087,
+        "chainId": 1
+      }
+    ]
